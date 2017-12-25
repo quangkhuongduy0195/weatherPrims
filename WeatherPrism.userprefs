@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{392E5A50-DEF1-405B-AD7B-EF95AFBCF851}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherPrism/ViewModels/ViewModelbase.cs">
+    <Files>
+      <File FileName="WeatherPrism/Views/CityPage.xaml" Line="14" Column="1" />
+      <File FileName="WeatherPrism/ViewModels/CityPageViewModel.cs" Line="66" Column="99" />
+      <File FileName="WeatherPrism/Models/City.cs" Line="6" Column="41" />
+      <File FileName="WeatherPrism/App.xaml.cs" Line="21" Column="57" />
+      <File FileName="WeatherPrism/ViewModels/WeatherCityPageViewModel.cs" Line="29" Column="27" />
+      <File FileName="WeatherPrism/Views/WeatherCityPage.xaml" Line="41" Column="1" />
+      <File FileName="WeatherPrism/Models/Weather.cs" Line="8" Column="30" />
+      <File FileName="WeatherPrism/Models/InfoWeather.cs" Line="18" Column="30" />
+      <File FileName="WeatherPrism/Models/Main.cs" Line="13" Column="27" />
+      <File FileName="Droid/MyFirebaseIIDService.cs" Line="3" Column="1" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="1" Column="1" />
+      <File FileName="WeatherPrism/Services/IDataInterface.cs" Line="14" Column="2" />
+      <File FileName="WeatherPrism/Services/MockData.cs" Line="30" Column="31" />
+      <File FileName="WeatherPrism/ViewModels/ViewModelbase.cs" Line="6" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/quangkhuongduy/Documents/xamarin/WeatherPrism/WeatherPrism/ViewModels/CityViewModel.cs" relfile="WeatherPrism/ViewModels/CityViewModel.cs" line="24" column="1" />
+      <Breakpoint file="/Users/quangkhuongduy/Documents/xamarin/WeatherPrism/WeatherPrism/ViewModels/CityViewModel.cs" relfile="WeatherPrism/ViewModels/CityViewModel.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeatherPrism.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5A357FF8-999D-47EE-AED4-9DBD8D571869">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.WeatherPrism.iOS>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeatherPrism.Droid PreferredExecutionTarget="Android.Nexus_5X_API_24" />
+</Properties>

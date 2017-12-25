@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "982881260335",
+    "firebase_url": "https://uplifted-mantra-138523.firebaseio.com",
+    "project_id": "uplifted-mantra-138523",
+    "storage_bucket": "uplifted-mantra-138523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982881260335:android:51ef6ff8f5a0a61b",
+        "android_client_info": {
+          "package_name": "com.quangkhuongduy.WeatherPrism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982881260335-6mckmht3vmlhg559dqhlhcl9o5ktnsg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quangkhuongduy.WeatherPrism",
+            "certificate_hash": "18be41e57dc1de1bfd17179482e4c56394a7487a"
+          }
+        },
+        {
+          "client_id": "982881260335-m3rkqk7diiueulckfm5h7jq2b8jae1b2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "982881260335-nmq6lqaejrtuvvj768n3r9gfoaf63bd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjbZ8j3UV3hJxwy9_CJh7LU8QfWU_rpRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982881260335-m3rkqk7diiueulckfm5h7jq2b8jae1b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
